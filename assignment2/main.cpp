@@ -1,5 +1,4 @@
-//Name: Zihan Li
-//Student# : A01282005
+
 #include <iostream>
 #include "SingletonFacade.hpp"
 using namespace std;
